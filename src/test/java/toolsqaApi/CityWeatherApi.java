@@ -27,6 +27,5 @@ public class CityWeatherApi {
         String responseBody = response.getBody().asString();
         System.out.println("Response Body is =>  " + responseBody);
 
-
     }
 }
